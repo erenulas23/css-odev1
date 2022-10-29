@@ -1,0 +1,43 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#navbar{
+   float: right;
+}
+
+#ana-image img{
+    margin-top: 30px;
+    padding: 50px;
+    padding-left: 500px;
+}
+
+#ana-image h3{
+    text-align: center;
+}
+
+
+.urunler img {
+    max-width: 300px;
+    margin-top: 30px;
+    padding: 20px;
+    padding-left: 700px;
+}
+
+.urunler h4{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.active{
+    background-color: grey;
+    color: white;
+}
+
+.iletisim h3{
+    text-align: center;
+    padding: 50px;
+}
